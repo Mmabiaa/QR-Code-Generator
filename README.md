@@ -17,7 +17,7 @@ A modern web application that allows users to generate QR codes effortlessly. Bu
 - Easy-to-use interface with real-time QR code generation.
 
 ## Demo
-Check out live demo [here](qr-code-genrator-mmabiaa.vercel.app)
+Check out live demo [here](https://qr-code-generator-mmabiaa.vercel.app)
 
 ## Technologies Used
 - **JavaScript**: For dynamic functionality.
