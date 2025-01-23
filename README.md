@@ -10,6 +10,7 @@ A modern web application that allows users to generate QR codes effortlessly. Bu
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgement](#acknowledgement)
 
 ## Features
 - Generate QR codes from text, URLs, and more.
@@ -47,3 +48,7 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LINCENSE.md) file for details.
+
+## 🙏 Acknowledgement
+
+- Special thanks to [Rajtlak](https://github.com/rajtilak-2020) for your contribution and support! 🎉
